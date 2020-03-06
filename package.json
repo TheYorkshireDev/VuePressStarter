@@ -1,0 +1,13 @@
+{
+  "name": "vuepress-starter",
+  "version": "1.0.0",
+  "description": "Starter project for a VuePress Site",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "TheYorkshireDev",
+  "devDependencies": {
+    "vuepress": "^1.3.1"
+  }
+}
